@@ -1,2 +1,0 @@
-#  Pagina Sistemas Operativos
-
